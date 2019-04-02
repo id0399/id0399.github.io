@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="http://Tryme" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-US">TryMe</name>
+      <description lang="en-US"/>
+      <launch lang="en-US">test.html</launch>
+    </activity>
+  </activities>
+</tincan>
